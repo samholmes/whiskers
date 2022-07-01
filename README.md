@@ -1,10 +1,12 @@
 Whiskers
 ========
 
+<p>
 <img src="whiskers.png" width="180">
+<img src="whiskers-tokyo.png" width="180">
+<p>
 
-An alternative application icon for [Kitty](https://sw.kovidgoyal.net/kitty/) terminal emulator.
-Works best if little flat icons and whiskers on kittens are a few of your favorite things.
+An modern application icon for [Kitty](https://sw.kovidgoyal.net/kitty/) terminal emulator.
 
 Installation
 ------------
